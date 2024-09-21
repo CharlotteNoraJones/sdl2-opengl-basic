@@ -1,0 +1,3 @@
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-subbuild/CMakeFiles/sdl2-populate.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-subbuild/CMakeFiles/edit_cache.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/HelloSDl2.dir/src/main.cpp.o -o HelloSDl2  _deps/sdl2-build/libSDL2maind.a _deps/sdl2-build/libSDL2d.a external/glad/libglad.a -lm -pthread 

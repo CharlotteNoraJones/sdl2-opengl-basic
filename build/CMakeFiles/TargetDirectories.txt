@@ -1,0 +1,13 @@
+/home/amyweiss/Documents/Projects/hello_sdl2/build/CMakeFiles/HelloSDl2.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/CMakeFiles/edit_cache.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/CMakeFiles/rebuild_cache.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-build/CMakeFiles/sdl_headers_copy.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-build/CMakeFiles/SDL2main.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-build/CMakeFiles/SDL2-static.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-build/CMakeFiles/SDL2_test.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-build/CMakeFiles/uninstall.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-build/CMakeFiles/edit_cache.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/_deps/sdl2-build/CMakeFiles/rebuild_cache.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/external/glad/CMakeFiles/glad.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/external/glad/CMakeFiles/edit_cache.dir
+/home/amyweiss/Documents/Projects/hello_sdl2/build/external/glad/CMakeFiles/rebuild_cache.dir
